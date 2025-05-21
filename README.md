@@ -38,10 +38,11 @@ This app represents a financial management interface with a **dark theme**, **sm
 
 ---
 
-## 👨‍💻 Made By
+## 👨‍💻 Author
 
-**Shreyash Dubewar**  
-🎓 Government Polytechnic Nashik  
-🏆 Hackathon Winner | Flutter Developer  
-📧 shreyash@example.com
+Made with ❤️ by **Shreyash-devs**  
+A passionate developer who enjoys turning ideas into reality using Flutter, Firebase, and a touch of creativity.
 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shreyashdubewar)  
+- 📱 [GitHub](https://github.com/shreyash-devs)  
+- ✉️ shreyashdevs.work@gmail.com
