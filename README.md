@@ -24,17 +24,17 @@ This app represents a financial management interface with a **dark theme**, **sm
 
 | Profile Screen | Credit Score | Bank Balance |
 |----------------|--------------|--------------|
-| ![Profile](screenshots/profile.png) | ![Credit](screenshots/credit.png) | ![Bank](screenshots/bank.png) |
+| ![Profile](screenshots/profile.jpg) | ![Credit](screenshots/credit.jpg) | ![Bank](screenshots/bank.jpg) |
 
-| Vehicles | Transactions | Referral |
-|----------|--------------|----------|
-| ![Vehicle](screenshots/vehicle.png) | ![Transactions](screenshots/transactions.png) | ![Referral](screenshots/referral.png) |
+| Vehicles | Transactions |
+|----------|--------------|
+| ![Vehicle](screenshots/vehicle.jpg) | ![Transactions](screenshots/transactions.jpg) |
 
 ---
 
 ## 📲 APK Download
 
-👉 [**Download Latest APK**](https://github.com/your-username/your-repo-name/releases/latest)
+👉 [**Download Latest APK**](apk/app-release.apk)
 
 ---
 
